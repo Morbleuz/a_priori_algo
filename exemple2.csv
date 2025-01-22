@@ -1,0 +1,9 @@
+Lait,Pain,Fromage
+Pain,Fromage
+Lait,Œufs
+Pain,Lait,Œufs
+Fromage,Lait
+Pain,Fromage,Lait
+Lait,Œufs,Beurre
+Fromage,Œufs
+Pain,Beurre
